@@ -10,6 +10,6 @@ int a= sc.nextInt();              //reads string
 System.out.println("Enter the number 2: ");
 int b= sc.nextInt(); 
 int c = a+b;
-System.out.print("Addition: "+c);             
-}  
+System.out.print("Addition: "+c);   
+System.out.println("*** END ***")  
 }
